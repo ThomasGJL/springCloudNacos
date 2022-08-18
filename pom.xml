@@ -10,14 +10,9 @@
     <packaging>pom</packaging>
 
     <modules>
-        <!-- <module>nacos-consumer</module> -->
         <module>nacos-provider</module>
-        <!-- <module>nacos-provider-cluster</module> -->
         <module>gateway-example</module>
-        <!-- <module>rocketmq-example</module> -->
-        <module>seata-order-example</module>
-        <module>seata-integral-example</module>
-        <!-- <module>webscoket-example</module> -->
+        <module>springboot-cache</module>
     </modules>
 
     <properties>
