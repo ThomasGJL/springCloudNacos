@@ -23,7 +23,7 @@
         <spring-cloud-alibaba-dependencies>2.2.5.RELEASE</spring-cloud-alibaba-dependencies>
         <mybatis-spring-boot-starter.version>2.2.0</mybatis-spring-boot-starter.version>
         <commons-lang3.version>3.11</commons-lang3.version>
-        <fastJson.version>1.2.75</fastJson.version>
+        <fastJson.version>[1.2.83,)</fastJson.version>
     </properties>
 
     <dependencyManagement>
